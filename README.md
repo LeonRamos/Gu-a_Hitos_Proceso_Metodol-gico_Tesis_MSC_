@@ -1,3 +1,10 @@
+![Maestría](https://img.shields.io/badge/Programa-Maestr%C3%ADa%20en%20Sistemas%20Computacionales-blue)
+![LGAC](https://img.shields.io/badge/LGAC-IA%20%7C%20Ciencia%20de%20Datos-brightgreen)
+![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-yellow)
+![Seminario](https://img.shields.io/badge/Seminario-Seminario%20de%20Investigaci%C3%B3n%20I%7CII%7CIII-orange)
+![Licencia](https://img.shields.io/badge/Licencia-MIT-lightgrey)
+![TecNM](https://img.shields.io/badge/Instituci%C3%B3n-TecNM%20%7C%20TSJ%20Zapopan-blueviolet)
+
 # Guía de Hitos y Proceso Metodológico para Tesis
 ## Maestría en Sistemas Computacionales (MSC)
 ### Tecnológico Superior de Jalisco (TSJ) – Zapopan, Jalisco
@@ -687,6 +694,9 @@ Sommerville, I. (2015). *Software Engineering* (10ª ed.). Pearson Education.
 Tecnológico Superior de Jalisco (2024). *Líneas de Generación y Aplicación del Conocimiento (LGAC) – Maestría en Sistemas Computacionales*. Disponible en: https://www.tsj.mx
 
 ¿Cómo escribir una tesis? Guía de redacción científica. Facultad de Ingeniería, Universidad Nacional de Mar del Plata. Disponible en: https://www3.fi.mdp.edu.ar/posmat/assets/como_escribir_tesis.pdf
+
+Este proyecto está licenciado bajo los términos de la licencia [MIT](./LICENSE).
+
 
 ---
 
